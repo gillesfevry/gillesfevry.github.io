@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nicolas Corvol"
+title                    : "Gilles Fevry"
 title_separator          : "-"
-name                     : &name "Nicolas Corvol"
-description              : &description "PhD student in AI/OR @ Renault x CERMICS"
-url                      : https://nicolascorvol.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Gilles Fevry"
+description              : &description "PhD student in ML x Optimization @ CERMICS"
+url                      : https://gillesfevry.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NicolasCorvol/NicolasCorvol.github.io"
+repository               : "gillesfevry/gillesfevry.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profil_photo.jpg"
-  name             : "Nicolas Corvol"
+  avatar           : "profil_photo.png"
+  name             : "Gilles Fevry"
   pronouns         : # example: "she/her"
-  bio              : "Phd student in AI and OR"
-  location         : "Ecole des Ponts"
+  bio              : "Phd student in ML x Optimization"
+  location         : "École Nationale des Ponts et Chaussées, Paris"
   employer         :
   uri              : # URL
-  email            : "nicolas.corvol@enpc.fr"
+  email            : "gilles.fevry@enpc.fr"
 
   # Academic websites
   academia         : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "NicolasCorvol"
+  github           : "gillesfevry"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "nicolas-corvol" # Username
+  linkedin         : "gilles-fevry" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
