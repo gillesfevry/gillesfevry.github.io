@@ -10,31 +10,12 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_Nicolas_Corvol.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_EN_Gilles_Fevry.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
 
 Education
 ======
-* Ph.D in Operation Research and Machine Learning, CERMIC-Renault Group, 2025-Present
-* Master's degree "Master Parisien de Recherche Opérationnelle", Conservatoire National des Arts et Métiers, 2024-2025
-* Engineering degree, Ecole Nationale des Ponts et Chaussées, 2021-2025
-* Scientific preparatory classes (MPSI-MP*), Lycée Charlemagne, 2019-2021
-
-Work experience
-======
-* November 2025-Present: PhD student
-  * Renault Group Supply Chain - Ecole Nationale des Ponts et Chaussées, CERMICS
-  * Working on integrating revenue management into Renault's supply chain
-
-* April 2025 - October 2025: Research Intern
-  * Renault Group
-  * Pre-doctorate internship
-
-* February 2024 - August 2024: Operation Research Intern
-  * Padam Mobility
-  * Implementing MILP for transportation on demand
-
-* July 2023 - December 2023: Research assistant
-  * Polytechnique Montreal, Scale AI
-  * Worked on hybrid NLP/OR methods in Thibault Vidal's team
-  
+* Ph.D in Generative Models and Combinatorial Optimization, 2026-Present
+* Master's degree "Master MVA", ENS Paris-Saclay, 2025-2026
+* Engineering degree, ENSAE Paris , 2023-2026
+* Bachelor's degree in Mathematics, Université de Versailles Saint-Quentin-en-Yvelines, 2020-2023
