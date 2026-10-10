@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Gilles Fevry"
+description: "Gilles Fevry, PhD student in Machine Learning and Combinatorial Optimization at CERMICS, École Nationale des Ponts et Chaussées (ENPC), Paris."
 author_profile: true
 redirect_from:
   - /about/
