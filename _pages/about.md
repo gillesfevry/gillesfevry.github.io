@@ -31,3 +31,8 @@ Research Topics
 * Generative Models
 * Combinatorial Optimization
 * Structured Reinforcement Learning
+
+Family Business
+======
+
+Mathematics runs in the family. My grandfather, [Marc Roubens](https://dblp.org/pid/73/5217.html), was a professor at the University of Liège, where he worked on preference modelling and multicriteria decision aid (see, e.g., [*Fuzzy Preference Modelling and Multicriteria Decision Support*](https://link.springer.com/book/10.1007/978-94-017-1648-2), with János Fodor). My great-grandfather, [Jean Teghem](https://www.mathgenealogy.org/id.php?id=97836), was a mathematician at the Université Libre de Bruxelles, where he served as president of the Faculty of Sciences; the *Prix Jean Teghem* for science popularization is named after him.
