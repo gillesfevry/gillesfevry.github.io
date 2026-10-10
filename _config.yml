@@ -25,7 +25,7 @@ author:
   avatar           : "profil_photo.png"
   name             : "Gilles Fevry"
   pronouns         : # example: "she/her"
-  bio              : "Phd student in ML x Optimization"
+  bio              : "PhD student in ML x Optimization"
   location         : "École Nationale des Ponts et Chaussées, Paris"
   employer         :
   uri              : # URL
@@ -263,7 +263,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -272,7 +272,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   # - scope:
@@ -290,7 +290,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
